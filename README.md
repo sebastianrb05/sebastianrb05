@@ -18,6 +18,7 @@ I'm a robotics student with a strong interest in AI, machine learning, and start
 ## 🛠️ Projects I’m Proud Of  
 - 🤖 **Robotic Arm**: A hands-on mechanical arm project that sparked my interest in fusing robotics with machine learning.  
 - 🤝 **TV2 x Cogito Collaboration**: Worked on a machine learning project in collaboration with TV2 and Cogito, using historical data to improve editorial decision-making through predictive models.
+- 🏫 **[finnemnet.no](https://finnemnet.no/)**: Made a website for NTNU students to easier find courses that they are interested in. Using RAG, OpenAI embeddings & LLM's.
 
 
 ### 🌍 Where You Can Find Me  
